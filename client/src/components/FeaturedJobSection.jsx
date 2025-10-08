@@ -72,6 +72,7 @@ export default function FeaturedJobSection() {
                     Apply Now
                   </Button>
                   <img src={vector} alt="Logo" className="w-4 h-4s " />
+                  
                 </div>
               </Card>
             ))}
