@@ -10,6 +10,7 @@ export default function DropDownSecComponent() {
   const toggleCollapse = () => {
     setIsOpen(!isOpen);
   };
+  
 
   return (
     <div className="w-[350px] bg-white rounded-lg shadow-md  mt-2 p-4">
