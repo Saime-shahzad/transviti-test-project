@@ -10,6 +10,7 @@ export default function DropDownSecComponent() {
   const toggleCollapse = () => {
     setIsOpen(!isOpen);
   };
+
   
 
   return (
